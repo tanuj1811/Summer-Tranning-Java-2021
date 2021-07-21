@@ -1,6 +1,6 @@
 //Assignment 1 of Session 3 ,date= July 20 2021
 //Topic => Using Unicode for printing Name in native language
-//https://github.com/tanuj1811/Summer-Tranning-Java-2021.git
+
 public class Session2Assignment1 {
 
 	public static void main(String[] args) {
@@ -12,7 +12,7 @@ public class Session2Assignment1 {
 		char nameCh3 = '\u0A41';
 		char nameCh4 = '\u0A1C';
 		
-//		System.out.println(nameCh1 + nameCh2 + nameCh3 + nameCh4 );
+
 		System.out.print(nameCh1);
 		System.out.print(nameCh2);
 		System.out.print(nameCh3);
@@ -25,7 +25,6 @@ public class Session2Assignment1 {
 		char nameCh03 = '\u0941';
 		char nameCh04 = '\u091C';
 		
-		System.out.println(nameCh01 + nameCh02 + nameCh03 + nameCh04 );
 		System.out.print(nameCh01);
 		System.out.print(nameCh02);
 		System.out.print(nameCh03);
